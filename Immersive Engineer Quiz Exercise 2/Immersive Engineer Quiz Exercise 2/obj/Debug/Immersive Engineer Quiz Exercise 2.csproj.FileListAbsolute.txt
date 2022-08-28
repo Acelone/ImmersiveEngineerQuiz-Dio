@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\bin\Debug\Immersive Engineer Quiz Exercise 2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\bin\Debug\Immersive Engineer Quiz Exercise 2.exe
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\bin\Debug\Immersive Engineer Quiz Exercise 2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\obj\Debug\Immersive Engineer Quiz Exercise 2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\obj\Debug\Immersive Engineer Quiz Exercise 2.exe
+c:\users\user\documents\visual studio 2015\Projects\Immersive Engineer Quiz Exercise 2\Immersive Engineer Quiz Exercise 2\obj\Debug\Immersive Engineer Quiz Exercise 2.pdb
